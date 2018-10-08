@@ -1,0 +1,11 @@
+Unable to locate tools.jar. Expected to find it in C:\Program Files\Java\j2re1.4.2_07\lib\tools.jar
+Buildfile: build.xml
+
+clean:
+   [delete] Deleting directory C:\MainWorkSpace\AgentOrganizationHierarchy\AgentOrganization\classes
+
+init:
+
+compile:
+    [mkdir] Created dir: C:\MainWorkSpace\AgentOrganizationHierarchy\AgentOrganization\classes
+    [javac] Compiling 76 source files to C:\MainWorkSpace\AgentOrganizationHierarchy\AgentOrganization\classes
